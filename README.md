@@ -1,2 +1,2 @@
-# CodingTest
+
  This Java-based RESTful API project, built using Spring Boot, facilitates seamless interaction with a database. It features robust entity relationships, including users with multiple posts and todos, posts with various comments, and todos associated with users. Structured into distinct packages, it includes well-defined entities mapping database tables, controllers enabling RESTful endpoints, services managing business logic, and repositories for data access. Utilizing Postman for API testing, the project empowers users to perform CRUD operations, retrieving user-specific posts, comments, and todos via intuitive API endpoints, ensuring efficient communication between clients and the server.
